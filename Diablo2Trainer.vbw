@@ -1,0 +1,5 @@
+frmMain = 110, 110, 805, 498, Z, 22, 22, 717, 410, C
+modBrowseForFolder = 132, 132, 827, 520, C
+modINI = 154, 154, 849, 542, C
+modMain = 176, 176, 871, 564, 
+modRegistry = 0, 0, 698, 393, C
